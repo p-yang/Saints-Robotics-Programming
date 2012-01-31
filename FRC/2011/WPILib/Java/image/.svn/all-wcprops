@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/saints1899/!svn/ver/21/FIRST/trunk/WPILib/Java/image
+END
+CurveOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/CurveOptions.java
+END
+ColorImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/ColorImage.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/Image.java
+END
+ParticleAnalysisReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/ParticleAnalysisReport.java
+END
+RegionOfInterest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/RegionOfInterest.java
+END
+BinaryImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/BinaryImage.java
+END
+HSLImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/HSLImage.java
+END
+EllipseMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/EllipseMatch.java
+END
+MonoImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/MonoImage.java
+END
+ShapeDetectionOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/ShapeDetectionOptions.java
+END
+EllipseDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/EllipseDescriptor.java
+END
+NIVisionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/NIVisionException.java
+END
+RGBImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/image/RGBImage.java
+END
+NIVision.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/saints1899/!svn/ver/21/FIRST/trunk/WPILib/Java/image/NIVision.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/communication
+END
+AICalibration.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/communication/AICalibration.java
+END
+SemaphoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/communication/SemaphoreException.java
+END
+Semaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/saints1899/!svn/ver/21/FIRST/trunk/WPILib/Java/communication/Semaphore.java
+END
+BumARioHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/saints1899/!svn/ver/19/FIRST/trunk/WPILib/Java/communication/BumARioHandle.java
+END
+FRCControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/communication/FRCControl.java
+END
+FRCCommonControlData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/saints1899/!svn/ver/21/FIRST/trunk/WPILib/Java/communication/FRCCommonControlData.java
+END

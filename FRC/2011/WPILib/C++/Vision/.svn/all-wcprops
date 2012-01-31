@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision
+END
+HSLImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/HSLImage.h
+END
+Threshold.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/Threshold.h
+END
+IntCameraParameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/IntCameraParameter.cpp
+END
+IntCameraParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/IntCameraParameter.h
+END
+MonoImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/MonoImage.cpp
+END
+ImageBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/ImageBase.cpp
+END
+AxisCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/AxisCamera.cpp
+END
+RGBImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/RGBImage.cpp
+END
+EnumCameraParameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/EnumCameraParameter.cpp
+END
+MonoImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/MonoImage.h
+END
+PCVideoServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/PCVideoServer.cpp
+END
+ColorImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/ColorImage.cpp
+END
+AxisCameraParams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/AxisCameraParams.cpp
+END
+ImageBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/ImageBase.h
+END
+AxisCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/AxisCamera.h
+END
+RGBImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/RGBImage.h
+END
+EnumCameraParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/EnumCameraParameter.h
+END
+PCVideoServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/PCVideoServer.h
+END
+ColorImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/ColorImage.h
+END
+AxisCameraParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/AxisCameraParams.h
+END
+BinaryImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/BinaryImage.cpp
+END
+HSLImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/HSLImage.cpp
+END
+BinaryImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/BinaryImage.h
+END
+Threshold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/saints1899/!svn/ver/26/FIRST/trunk/WPILib/C++/Vision/Threshold.cpp
+END

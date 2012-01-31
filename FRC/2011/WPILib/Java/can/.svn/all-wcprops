@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/can
+END
+CANJaguarVersionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/can/CANJaguarVersionException.java
+END
+CANInvalidBufferException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/can/CANInvalidBufferException.java
+END
+JaguarCANDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/can/JaguarCANDriver.java
+END
+CANNotInitializedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/can/CANNotInitializedException.java
+END
+CANTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/can/CANTimeoutException.java
+END
+CANExceptionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/can/CANExceptionFactory.java
+END
+JaguarCANProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/can/JaguarCANProtocol.java
+END
+CANMessageNotAllowedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/saints1899/!svn/ver/22/FIRST/trunk/WPILib/Java/can/CANMessageNotAllowedException.java
+END
