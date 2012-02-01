@@ -1,8 +1,6 @@
 # Compiled source #
 ###################
 *.com
-*.class
-*.dll
 *.exe
 *.o
 *.so
@@ -15,7 +13,6 @@
 *.dmg
 *.gz
 *.iso
-*.jar
 *.rar
 *.tar
 *.zip
@@ -30,5 +27,4 @@
 ######################
 .DS_Store*
 ehthumbs.db
-Icon?
 Thumbs.db
